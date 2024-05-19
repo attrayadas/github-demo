@@ -1,3 +1,3 @@
 # github-demo
-I am doing these changes from github itself to uderstand about merge conflict
+making these changes in an another git branch. Yufff!
 
