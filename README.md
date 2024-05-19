@@ -1,2 +1,3 @@
 # github-demo
-This changes i have done from the machine itself
+I am doing these changes from github itself to uderstand about merge conflict
+
