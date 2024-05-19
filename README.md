@@ -1,3 +1,7 @@
 # github-demo
-I am doing these changes from github itself to uderstand about merge conflict
+These are some random text that i will be adding in here.
+
+Hope aall ok.
+
+Good bye
 
